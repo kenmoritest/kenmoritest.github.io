@@ -4,6 +4,5 @@ title: kenmoritest's page
 description: KenmoriTest's test page to learn github page.
 show_downloads: false
 
-tagline:          'blog'
 url:              http://kenmoritest.github.io
 baseurl:          /blog
