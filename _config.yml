@@ -4,6 +4,8 @@ title: kenmoritest's page
 description: KenmoriTest's test page to learn github page.
 show_downloads: false
 
+url:              http://kenmoritest.github.io
+baseurl:          /
 
 menu:
   - title:        Blog
