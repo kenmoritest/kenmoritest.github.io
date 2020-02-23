@@ -2,3 +2,15 @@ theme: jekyll-theme-slate
 title: kenmoritest's page
 description: KenmoriTest's test page to learn github page.
 show_downloads: false
+
+# Setup
+tagline:          'blog'
+url:              http://kenmoritest.github.io
+baseurl:          /blog
+commentsystem:    google
+disqus:           example
+
+author:
+  name:           Kengo Mori
+
+paginate:         5
