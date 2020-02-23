@@ -1,3 +1,4 @@
 theme: jekyll-theme-architect
 title: This is a test page.
 description: KenmoriTest's test page to learn github page.
+show_downloads: "false"
