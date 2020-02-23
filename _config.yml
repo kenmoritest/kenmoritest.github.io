@@ -7,10 +7,3 @@ show_downloads: false
 tagline:          'blog'
 url:              http://kenmoritest.github.io
 baseurl:          /blog
-commentsystem:    google
-disqus:           example
-
-author:
-  name:           Kengo Mori
-
-paginate:         5
