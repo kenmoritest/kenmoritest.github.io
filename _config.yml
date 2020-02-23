@@ -8,6 +8,3 @@ show_downloads: false
 menu:
   - title:        Blog
     url:          /blog
-
-  - title:        Home
-    url:          /
